@@ -1,6 +1,6 @@
-# Major-Group-Project-Code
+# Autonomous Machine Vision Robot
 
-This contains the code used as part of the Major Group Project dissertation at Brunel University London, for the following group member:
+This contains the underlying code used as part of my MEng dissertation at Brunel University London, for the following group member:
 
 Sanabil Qureshi
 1713500
